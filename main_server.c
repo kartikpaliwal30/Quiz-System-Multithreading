@@ -1,7 +1,6 @@
 
 /* 
  * File:   Main_Server.c
- * Author: Muneeb Ahmad
  */
 #include <stdio.h> 
 #include <string.h> 
